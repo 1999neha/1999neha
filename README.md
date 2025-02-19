@@ -13,9 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=1999neha&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
 </p>
 
-<!-- Unique Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1999neha&custom_title=Neha's%20GitHub%20Activity%20Graph&bg_color=141321&color=F75C7E&line=F75C7E&point=FFFFFF&hide_border=true" width="100%"/>
-
 <!-- Productivity Stats -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=1999neha&theme=radical" width="49%" />
