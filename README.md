@@ -1,6 +1,6 @@
-# 🏆 My GitHub Achievements
 
-<p align="center">
+
+<p align="center"># 🏆 My GitHub Achievements
     <img src="https://github.githubassets.com/assets/starstruck-default--light-a594e2a027e0.png" width="100">
     <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="100">
     <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100">
