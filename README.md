@@ -1,3 +1,23 @@
+# 🏆 My GitHub Achievements
+
+<p align="center">
+    <img src="https://github.githubassets.com/assets/starstruck-default--light-a594e2a027e0.png" width="100">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="100">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100">
+    <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="100">
+</p>
+
+<p align="center">
+    <b>Starstruck</b> &nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Pair Extraordinaire</b> &nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Pull Shark</b> &nbsp;&nbsp;&nbsp;&nbsp;
+    <b>YOLO</b> &nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Quickdraw</b>
+</p>
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Neha!+%F0%9F%91%8B;Welcome+to+my+Profile" alt="Typing SVG" />
 </h1>
