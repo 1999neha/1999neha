@@ -1,4 +1,6 @@
-<h1 align="center">🏆 My GitHub Achievements</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F75C7E&center=true&width=500&lines=🏆+My+GitHub+Achievements" alt="Typing SVG">
+</p>
 
 <p align="center">
     <img src="https://github.githubassets.com/assets/starstruck-default--light-a594e2a027e0.png" width="100">
@@ -15,6 +17,7 @@
     <b>YOLO</b> &nbsp;&nbsp;&nbsp;&nbsp;
     <b>Quickdraw</b>
 </p>
+
 
 
 
