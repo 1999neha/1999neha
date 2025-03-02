@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F75C7E&center=true&width=500&lines=🏆+My+GitHub+Achievements" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=🏆+My+GitHub+Achievements" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@
     <b>YOLO</b> &nbsp;&nbsp;&nbsp;&nbsp;
     <b>Quickdraw</b>
 </p>
+
 
 
 
