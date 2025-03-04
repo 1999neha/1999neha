@@ -1,32 +1,4 @@
 <h1 align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" 
-         alt="Trophy" width="25" height="25" /> 
-    GitHub Trophies
-</h1>
-
-<table align="center" width="80%" style="border-collapse: collapse; text-align: center; background-color: #1e1e1e; color: white; border-radius: 10px; overflow: hidden;">
-    <tr>
-        <td colspan="3" style="padding: 10px;">
-            <a href="https://github-trophy.vercel.app">
-                <picture>
-                    <source media="(prefers-color-scheme: dark)" 
-                            srcset="https://github-profile-trophy.vercel.app/?username=machinelearningprodigy&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-                    <source media="(prefers-color-scheme: light)" 
-                            srcset="https://github-profile-trophy.vercel.app/?username=machinelearningprodigy&no-bg=false&margin-w=4&row=1" />
-                    <img width="100%" alt="GitHub Trophies" 
-                         src="https://github-profile-trophy.vercel.app/?username=machinelearningprodigy&no-frame=true&hide_border=true&no-bg=false&margin-w=4&row=1" 
-                         style="border-radius: 10px;">
-                </picture>
-            </a>
-        </td>
-    </tr>
-</table>
-
-
-
-
-
-<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Neha!+%F0%9F%91%8B;Welcome+to+my+Profile" alt="Typing SVG" />
 </h1>
 
