@@ -1,3 +1,13 @@
+<img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
+<img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
+<img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
+
+
+<img src="https://skillicons.dev/icons?i=notion,obsidian,onenote,googlekeep,slack,microsoftteams" />
+
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Neha!+%F0%9F%91%8B;Welcome+to+my+Profile" alt="Typing SVG" />
 </h1>
