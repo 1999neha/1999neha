@@ -1,6 +1,12 @@
-<iframe src="https://github.com/sponsors/machinelearningprodigy/card" title="Sponsor machinelearningprodigy" height="225" width="600" style="border: 0;"></iframe>
+## 💖 Sponsor Me
 
-<iframe src="https://github.com/sponsors/machinelearningprodigy/button" title="Sponsor machinelearningprodigy" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+If you find my projects useful, consider sponsoring me to support my open-source work!  
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/machinelearningprodigy)  
+
+### **GitHub Sponsor Card**
+[![Sponsor me](https://github.com/sponsors/machinelearningprodigy/card)](https://github.com/sponsors/machinelearningprodigy)
+
 
 
 </div>
