@@ -2,16 +2,17 @@
   <img src="https://skillicons.dev/icons?i=dart,flutter,tailwind,postman" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
-<h1 align="center">🚀 State Management & Tools</h1>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,js,ts,vite,prisma" />
+<img src="https://skillicons.dev/icons?i=dart,flutter,mongodb,postgres,mysql,firebase,supabase,tailwind,postman" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://pub.dev/packages/flutter_bloc/versions/9.1.0/gen-res/gen/190x190/logo.webp" alt="Bloc" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg?sanitize=true" alt="Hive" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/jonataslaw/getx-community/master/get.png" alt="GetX" width="40" height="40"/>
+<img src="https://github.com/mobxjs/mobx.dart/raw/master/docs/src/images/mobx.png" alt="MobX" width="40" height="40"/>
+<img src="https://github.com/rrousselGit/riverpod/blob/master/resources/icon/Facebook%20Cover%20A.png?raw=true" alt="Riverpod" width="40" height="40"/>
+<img src="https://cdn.rive.app/rive_logo_dark_bg.png" alt="Rive" width="40" height="40"/>
 
-<div align="center">
-    <img src="https://pub.dev/packages/flutter_bloc/versions/9.1.0/gen-res/gen/190x190/logo.webp" alt="Bloc" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg?sanitize=true" alt="Hive" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/jonataslaw/getx-community/master/get.png" alt="GetX" width="50" height="50"/>
-    <img src="https://github.com/mobxjs/mobx.dart/raw/master/docs/src/images/mobx.png" alt="MobX" width="50" height="50"/>
-    <img src="https://github.com/rrousselGit/riverpod/blob/master/resources/icon/Facebook%20Cover%20A.png?raw=true" alt="Riverpod" width="50" height="50"/>
-    <img src="https://cdn.rive.app/rive_logo_dark_bg.png" alt="Rive" width="50" height="50"/>
-</div>
+
 
 
 
