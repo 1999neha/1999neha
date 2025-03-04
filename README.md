@@ -4,9 +4,6 @@ If you find my projects useful, consider sponsoring me to support my open-source
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/machinelearningprodigy)  
 
-### **GitHub Sponsor Card**
-[![Sponsor me](https://github.com/sponsors/machinelearningprodigy/card)](https://github.com/sponsors/machinelearningprodigy)
-
 
 
 </div>
