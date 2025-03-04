@@ -1,5 +1,5 @@
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mongodb,js,ts,Vite,Prisma,Supabase" />
-  <img src="https://skillicons.dev/icons?i=dart,flutter,postgres,mysql,firebase,tailwind,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mongodb,supabase,firebase,postgres,mysql,js,ts,Vite,Prisma,Supabase,vite,prisma" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,tailwind,postman" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />
   <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
