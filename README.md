@@ -3,13 +3,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Bloc_logo.png" alt="Bloc" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/hivedb/hive/master/assets/logo_transparent.svg" alt="Hive" width="50" height="50"/>
-    <img src="https://avatars.githubusercontent.com/u/66200758?s=200&v=4" alt="GetX" width="50" height="50"/>
-    <img src="https://mobx.js.org/img/mobx.png" alt="MobX" width="50" height="50"/>
-    <img src="https://avatars.githubusercontent.com/u/61425104?s=200&v=4" alt="Riverpod" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/LottieFiles/lottie-docs/main/public/favicon.ico" alt="Lottie" width="50" height="50"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/rive-2.svg" alt="Rive" width="50" height="50"/>
+<!-- State Management & Animation Tools -->
+<img src="https://pub.dev/packages/flutter_bloc/versions/9.1.0/gen-res/gen/190x190/logo.webp" alt="Bloc" width="50" height="50"/>
+<img src="https://pub.dev/packages/hive/versions/2.2.3/gen-res/gen/190x190/logo.webp" alt="Hive" width="50" height="50"/>
+<img src="https://pub.dev/packages/get/versions/4.6.6/gen-res/gen/190x190/logo.webp" alt="GetX" width="50" height="50"/>
+<img src="https://pub.dev/packages/mobx/versions/2.2.0/gen-res/gen/190x190/logo.webp" alt="MobX" width="50" height="50"/>
+<img src="https://pub.dev/packages/riverpod/versions/2.4.9/gen-res/gen/190x190/logo.webp" alt="Riverpod" width="50" height="50"/>
+<img src="https://pub.dev/packages/lottie/versions/2.7.0/gen-res/gen/190x190/logo.webp" alt="Lottie" width="50" height="50"/>
+<img src="https://pub.dev/packages/rive/versions/0.12.4/gen-res/gen/190x190/logo.webp" alt="Rive" width="50" height="50"/>
 
 
 
