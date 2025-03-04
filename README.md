@@ -1,8 +1,25 @@
-## 💖 Sponsor Me
+<!-- About Me Section -->
+<img align="right" width="30%" src="https://github.com/RanitManik/RanitManik/blob/main/Assets/Programming.gif">
 
-If you find my projects useful, consider sponsoring me to support my open-source work!  
+# Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" width="30px" /> I'm [Rahul Mishra](https://rahulmishra-two.vercel.app/)
+
+<h3>A Tech Enthusiast from India</h3>
+
+- 👨‍💼 **App Developer (Intern)** at [**IITG**](https://www.iitg.ac.in/).  
+- 🏫 Pursuing a **Bachelor's Degree in Computer Science** at [**Assam Down Town University**](https://www.adtu.in).  
+- 📚 Proficient in **Machine Learning** and **Full Stack Development**.  
+- 🌐 Visit my [**Portfolio**](https://rahulmishra-two.vercel.app) to explore projects and achievements.  
+- 📧 Reach me via [**Email**](mailto:avaantivirus2021@gmail.com) or connect on [**LinkedIn**](https://www.linkedin.com/in/rahul-mishra-9a8826269/).  
+- 📍 Based in **Guwahati, Assam, India**.  
+
+---
+
+### 💖 **Support My Open-Source Work**  
+If you find my work useful, consider supporting me!  
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/machinelearningprodigy)  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
