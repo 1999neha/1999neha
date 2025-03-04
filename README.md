@@ -1,6 +1,8 @@
+<iframe src="https://github.com/sponsors/machinelearningprodigy/card" title="Sponsor machinelearningprodigy" height="225" width="600" style="border: 0;"></iframe>
+
+<iframe src="https://github.com/sponsors/machinelearningprodigy/button" title="Sponsor machinelearningprodigy" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
 
-  
 </div>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Neha!+%F0%9F%91%8B;Welcome+to+my+Profile" alt="Typing SVG" />
