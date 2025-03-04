@@ -3,6 +3,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
 
+  <img src="https://skillicons.dev/icons?i=bloc" alt="Bloc" />
+    <img src="https://skillicons.dev/icons?i=hive" alt="Hive" />
+    <img src="https://skillicons.dev/icons?i=getx" alt="GetX" />
+    <img src="https://skillicons.dev/icons?i=mobx" alt="MobX" />
+    <img src="https://skillicons.dev/icons?i=riverpod" alt="Riverpod" />
+    <img src="https://skillicons.dev/icons?i=lottie" alt="Lottie" />
+    <img src="https://skillicons.dev/icons?i=rive" alt="Rive" />
+
+
+
+
 <img src="https://skillicons.dev/icons?i=notion,obsidian,onenote,googlekeep,slack,microsoftteams" />
 
 
