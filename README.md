@@ -18,12 +18,15 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000" alt="Obsidian" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=117560&format=png&color=000000" alt="OneNote" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=30655&format=png&color=000000" alt="Google Keep" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=19978&format=png&color=000000" alt="Slack" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=w4GK9hbJaqEc&format=png&color=000000" alt="Microsoft Teams" width="40" height="40"/>
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000" alt="Obsidian" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=117560&format=png&color=000000" alt="OneNote" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=30655&format=png&color=000000" alt="Google Keep" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=19978&format=png&color=000000" alt="Slack" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=100&id=w4GK9hbJaqEc&format=png&color=000000" alt="Microsoft Teams" width="40" height="40"/>
+</div>
+
 
 
 
