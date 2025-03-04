@@ -19,11 +19,12 @@
 
 
 <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Obsidian_app_logo.png" alt="Obsidian" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_OneNote_2019_logo.svg" alt="OneNote" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Google_Keep_icon_%282020%29.svg/1024px-Google_Keep_icon_%282020%29.svg.png" alt="Google Keep" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" alt="Slack" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Microsoft_Office_Teams_%282020%29.svg" alt="Microsoft Teams" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000" alt="Obsidian" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=117560&format=png&color=000000" alt="OneNote" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=30655&format=png&color=000000" alt="Google Keep" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=19978&format=png&color=000000" alt="Slack" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=w4GK9hbJaqEc&format=png&color=000000" alt="Microsoft Teams" width="40" height="40"/>
+
 
 
 
