@@ -1,22 +1,36 @@
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=🏆+My+GitHub+Achievements" alt="Typing SVG">
-</p>
+<h1 align="center">🥇 GitHub Achievements</h1>
 
-<p align="center">
-    <img src="https://github.githubassets.com/assets/starstruck-default--light-a594e2a027e0.png" width="100">
-    <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="100">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100">
-    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100">
-    <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="100">
-</p>
+<table align="center">
+    <tr>
+        <td align="center">
+            <img src="https://github.githubassets.com/assets/starstruck-default--light-a594e2a027e0.png" width="100"><br>
+            <b>Starstruck</b>
+        </td>
+        <td align="center">
+            <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="100"><br>
+            <b>Pair Extraordinaire</b>
+        </td>
+        <td align="center">
+            <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100"><br>
+            <b>Pull Shark</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100"><br>
+            <b>YOLO</b>
+        </td>
+        <td align="center">
+            <img src="https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png" width="100"><br>
+            <b>Quickdraw</b>
+        </td>
+        <td align="center">
+            <img src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" width="100"><br>
+            <b>Galaxy Brain</b>
+        </td>
+    </tr>
+</table>
 
-<p align="center">
-    <b>Starstruck</b> &nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Pair Extraordinaire</b> &nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Pull Shark</b> &nbsp;&nbsp;&nbsp;&nbsp;
-    <b>YOLO</b> &nbsp;&nbsp;&nbsp;&nbsp;
-    <b>Quickdraw</b>
-</p>
 
 
 
