@@ -1,24 +1,36 @@
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,mongodb,supabase,firebase,postgres,mysql,js,ts,vite,prisma" />
-  <img src="https://skillicons.dev/icons?i=dart,flutter,tailwind,postman" />
+<!-- Tech Stack -->
+<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Tech Stack</h1>
+<div align="center">
+  <!-- Data Science, AI, ML Tools -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spyder/spyder-original.svg" alt="spyder" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+  <br/>
+  
+  <!-- Web Development Tools -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,js,ts,vite,prisma" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,mongodb,postgres,mysql,firebase,supabase,tailwind,postman" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nodejs,express,js,ts,vite,prisma" />
-<img src="https://skillicons.dev/icons?i=dart,flutter,mongodb,postgres,mysql,firebase,supabase,tailwind,postman" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://pub.dev/packages/flutter_bloc/versions/9.1.0/gen-res/gen/190x190/logo.webp" alt="Bloc" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/hivedb/hive/master/.github/logo_transparent.svg?sanitize=true" alt="Hive" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/jonataslaw/getx-community/master/get.png" alt="GetX" width="40" height="40"/>
-<img src="https://github.com/mobxjs/mobx.dart/raw/master/docs/src/images/mobx.png" alt="MobX" width="40" height="40"/>
-<img src="https://github.com/rrousselGit/riverpod/blob/master/resources/icon/Facebook%20Cover%20A.png?raw=true" alt="Riverpod" width="40" height="40"/>
-<img src="https://cdn.rive.app/rive_logo_dark_bg.png" alt="Rive" width="40" height="40"/>
-
-
- 
-
-
-
-
-<div style="display: flex; align-items: center; gap: 10px;">
+  
+  <br/>
+  
+  <!-- Other Tools -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,vscode,github,ubuntu" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
+  <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://skillicons.dev/icons?i=notion" alt="Notion" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000" alt="Obsidian" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=100&id=117560&format=png&color=000000" alt="OneNote" width="40" height="40"/>
@@ -27,12 +39,8 @@
     <img src="https://img.icons8.com/?size=100&id=w4GK9hbJaqEc&format=png&color=000000" alt="Microsoft Teams" width="40" height="40"/>
 </div>
 
-
-
-
-
-
-
+  
+</div>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Neha!+%F0%9F%91%8B;Welcome+to+my+Profile" alt="Typing SVG" />
 </h1>
